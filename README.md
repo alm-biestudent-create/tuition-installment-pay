@@ -8,7 +8,7 @@ CCCBWTJ6VOLVLGOYOVM2APQTCSS4IM6X3HQ2NDQIPYELLCMGBO6HBYVT
 # CONTRACT LINK
 https://stellar.expert/explorer/testnet/contract/CB2U2BVG43T4DAXMEYV3Y55XG5FX2DAIOANBDGNNPOAZGZMJWJY6TDXN
 
-[PICTURE](stellarandrei.png)
+![PICTURE](stellarandrei.png)
 
 
 ## Project Description
